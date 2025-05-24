@@ -1,0 +1,8 @@
+{
+  "name": "Copy of AI Mileage Tracker",
+  "description": "A mobile-first web application for tracking vehicle mileage with AI-powered assistance features. Log trips, manage vehicles, view reports, and get smart suggestions for trip purposes and insights into your driving habits.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "prompt": ""
+}
