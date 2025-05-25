@@ -1,4 +1,4 @@
-# Run and deploy your AI app
+# Run and deploy your AI-Mileage-Tracker
 
 This contains everything you need to run your app locally.
 
